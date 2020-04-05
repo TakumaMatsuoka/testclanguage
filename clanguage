@@ -1,3 +1,13 @@
+/*What I Have To Read*/
+/*C言語の型について*/
+/*https://www.sejuku.net/blog/25517*/
+/*整数型の使い方*/
+/*https://www.sejuku.net/blog/25690*/
+/*関数について*/
+/*https://www.sejuku.net/blog/24348*/
+/*演算処理について*/
+/*http://c-lang.sevendays-study.com/day2.html*/
+
 /*Header Files*/
 #include <stdio.h>
 #include <math.h>
