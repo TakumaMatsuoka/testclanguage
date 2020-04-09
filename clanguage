@@ -24,6 +24,8 @@ printf("周波数についての勉強 \n");
 /* http://hikaen2.hatenablog.com/entry/20150612/1434127268 */
 /URL3-周波数の単位について*/
 /* https://towatowa.net/hertz/ */
+/*UL4-ギターの周波数 */
+/* https://site2913.com/music/guitar-bass-frequency/ */
 
 /*UL1より*/
 printf("周波数は音の波を図るときに使われる。 \n 光の波を図るときは、波長で測った方がよい。 \n 周波数：オシロスコープとマイク \n 波長：干渉計 \n");
