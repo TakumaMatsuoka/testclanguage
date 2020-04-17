@@ -7,6 +7,14 @@
 /*https://www.sejuku.net/blog/24348*/
 /*演算処理について*/
 /*http://c-lang.sevendays-study.com/day2.html*/
+/*URL1-周波数の計算式について*/
+/* https://mathwords.net/vflambda */
+/*URL2-ピアノの周波数*/
+/* http://hikaen2.hatenablog.com/entry/20150612/1434127268 */
+/*URL3-周波数の単位について*/
+/* https://towatowa.net/hertz/ */
+/*UL4-ギターの周波数 */
+/* https://site2913.com/music/guitar-bass-frequency/ */
 
 /*Header Files*/
 #include <stdio.h>
@@ -15,18 +23,7 @@
 
 int main(void)
 {
-
 printf("周波数についての勉強 \n");
-
-/*URL1-周波数の計算式について*/
-/* https://mathwords.net/vflambda */
-/*URL2-ピアノの周波数*/
-/* http://hikaen2.hatenablog.com/entry/20150612/1434127268 */
-/URL3-周波数の単位について*/
-/* https://towatowa.net/hertz/ */
-/*UL4-ギターの周波数 */
-/* https://site2913.com/music/guitar-bass-frequency/ */
-
 /*UL1より*/
 printf("周波数は音の波を図るときに使われる。 \n 光の波を図るときは、波長で測った方がよい。 \n 周波数：オシロスコープとマイク \n 波長：干渉計 \n");
 printf("光の速さ（v）=周波数（振動数f）*波長（λ） \n 例 \n");
@@ -38,10 +35,7 @@ printf("例 \n 周波数600MHz（MHzは100倍ということ）の光の波長�
 /* https://marycore.jp/prog/c-lang/format-floating-point/ */
 printf("300000km/s=6000000Hz*λ \n λ=300000/6000000= %.2f", 0.5);
 /*ここまでがURL1*/
-
-
 return 0 ;
-
 }
 
 
